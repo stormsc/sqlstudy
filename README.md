@@ -1,5 +1,5 @@
 # sqlstudy
-## 1.数据库和SQL
+## 1 数据库和SQL
 ### 1.1 数据库是什么
 - 数据库（Database,DB)：将大量数据保存起来，通过计算机加工而成的可以进行高效访问的数据集合。
 - 数据库管理系统（Database Management System，DBMS）：用来管理数据库的计算机系统称为数据库管理系统。
@@ -25,8 +25,8 @@ DCL（Data Control Language，数据控制语言） 用来确认或者取消对�
 - GRANT ： 赋予用户操作权限
 - REVOKE ： 取消用户的操作权限
 
-## 2.SQL语法
+## 2 SQL语法
 ### 2.1 表的创建
 - 语法1　创建数据库的 CREATE DATABASE 语句
+`CREATE DATABASE <数据库名称>`
 
-'CREATE DATABASE <数据库名称>'
