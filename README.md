@@ -24,3 +24,8 @@ DCL（Data Control Language，数据控制语言） 用来确认或者取消对�
 - ROLLBACK ： 取消对数据库中的数据进行的变更
 - GRANT ： 赋予用户操作权限
 - REVOKE ： 取消用户的操作权限
+
+## 2.SQL语法
+### 2.1 表的创建
+- 语法1　创建数据库的 CREATE DATABASE 语句
+'CREATE DATABASE < 数据库名称 > '
