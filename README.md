@@ -12,3 +12,13 @@
  - CREATE：创建数据库和表等对象
  - DROP：删除数据库和表等对象
  - ALTER：修改数据库和表等对象的结构
+2. DML（Data Manipulation Language，数据操纵语言）用来查询或者变更表中的记录
+- SELECT ：查询表中的数据
+- INSERT ：向表中插入新数据
+- UPDATE ：更新表中的数据
+- DELETE ：删除表中的数据
+3. DCL（Data Control Language，数据控制语言） 用来确认或者取消对数据库中的数据进行的变更。除此之外，还可以对RDBMS 的用户是否有权限操作数据库中的对象（数据库表等）进行设定。
+- COMMIT ： 确认对数据库中的数据进行的变更
+- ROLLBACK ： 取消对数据库中的数据进行的变更
+- GRANT ： 赋予用户操作权限
+- REVOKE ： 取消用户的操作权限
