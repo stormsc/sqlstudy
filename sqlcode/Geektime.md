@@ -1,2 +1,2 @@
-- 此文件夹存放为在jeektime 操作数据库的语句
-- 数据库为Mysql
+- 此文件夹存放在jeektime学习时操作数据库的语句。学习地址：https://time.geekbang.org/column/intro/192
+- 学习时操作的数据库为Mysql
